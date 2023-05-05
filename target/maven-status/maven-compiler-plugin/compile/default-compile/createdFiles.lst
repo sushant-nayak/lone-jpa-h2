@@ -1,0 +1,5 @@
+us/lambdaone/lambdaonedemo/model/Student.class
+us/lambdaone/lambdaonedemo/repository/StudentRepository.class
+us/lambdaone/lambdaonedemo/LambdaoneDemoApplication.class
+us/lambdaone/lambdaonedemo/service/StudentService.class
+us/lambdaone/lambdaonedemo/controller/StudentController.class
